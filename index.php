@@ -106,7 +106,7 @@
     <div id="stars1"></div>
     <div id="stars2"></div>
     <p>
-        Miss, Hany Mj
+        Miss, Hanya Mj
     </p>
     <p>
         For what u added to us of new Values & Goodness
